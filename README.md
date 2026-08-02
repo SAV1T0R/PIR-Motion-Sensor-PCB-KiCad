@@ -1,22 +1,20 @@
 • **PIR Motion Sensor PCB**
 
-Designed a PIR (Passive Infrared) Motion Sensor circuit using KiCad. This project includes schematic design, PCB layout, Gerber file generation, and a Bill of Materials (BOM) for PCB fabrication.
+Designed a Passive Infrared (PIR) Motion Sensor printed circuit board (PCB) using KiCad. This project includes schematic capture, PCB layout design, Gerber file generation, and a Bill of Materials (BOM) for manufacturing. The design demonstrates the complete PCB development workflow from circuit design to fabrication-ready outputs.
 
 ---
 
 • **Features**
 
-- PIR motion detection circuit
-- Analog signal conditioning
-- Comparator-based detection
-- Transistor output driver
-- PCB layout designed in KiCad
-- Manufacturing-ready Gerber files
-- Bill of Materials (BOM)
+- Designed the complete PIR motion sensor schematic in KiCad.
+- Created the PCB layout with proper component placement and routing.
+- Generated Gerber and drill files for PCB fabrication.
+- Generated a Bill of Materials (BOM).
+- Performed Electrical Rules Check (ERC) and Design Rules Check (DRC).
 
 ---
 
-• **Tools Used**
+• **Software Used**
 
 - KiCad 9
 - ERC (Electrical Rules Check)
@@ -24,62 +22,22 @@ Designed a PIR (Passive Infrared) Motion Sensor circuit using KiCad. This projec
 
 ---
 
-• **Project Contents**
+• **Project Files**
 
-- KiCad schematic (.kicad_sch)
-- KiCad PCB layout (.kicad_pcb)
-- KiCad project file (.kicad_pro)
+- KiCad project (.kicad_pro)
+- Schematic (.kicad_sch)
+- PCB layout (.kicad_pcb)
 - Gerber files
 - Drill files
 - Bill of Materials (BOM)
-- PCB screenshots
-
----
-
-• **Folder Structure**
-
-```
-PIR-Motion-Sensor-PCB/
-│
-├── KiCad_Project/
-├── Gerber/
-├── BOM/
-├── Images/
-├── README.md
-└── LICENSE
-```
-
----
-
-• **Images**
-
-- Schematic
-- PCB Layout
-- 3D PCB View (optional)
+- Project images
 
 ---
 
 • **Applications**
 
-- Home Automation
-- Motion Detection Systems
+- Motion Detection
+- Home Security Systems
 - Smart Lighting
 - Occupancy Detection
-- Security and Surveillance
-
----
-
-• **Future Improvements**
-
-- Optimize PCB routing
-- Reduce board size
-- Add silkscreen labels
-- Improve component placement
-- Fabricate and test the PCB
-
----
-
-• **Author**
-
-**Kamalika P**
-
+- Home Automation
