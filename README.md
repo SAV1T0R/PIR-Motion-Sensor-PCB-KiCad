@@ -83,5 +83,3 @@ PIR-Motion-Sensor-PCB/
 
 **Kamalika P**
 
-Electronics and Communication Engineering (ECE)  
-PES University
